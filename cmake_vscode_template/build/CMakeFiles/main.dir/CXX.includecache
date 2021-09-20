@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Gun.h
+string
+-
+
+../include/Soldier.h
+iostream
+-
+string
+-
+Gun.h
+../include/Gun.h
+
+/home/huangli/MyLearning/cpp_coding/cmake_vscode/main.cpp
+iostream
+-
+Soldier.h
+/home/huangli/MyLearning/cpp_coding/cmake_vscode/Soldier.h
+Gun.h
+/home/huangli/MyLearning/cpp_coding/cmake_vscode/Gun.h
+
+/home/huangli/MyLearning/cpp_coding/cmake_vscode/src/Gun.cpp
+Gun.h
+/home/huangli/MyLearning/cpp_coding/cmake_vscode/src/Gun.h
+iostream
+-
+
+/home/huangli/MyLearning/cpp_coding/cmake_vscode/src/Soldier.cpp
+Soldier.h
+/home/huangli/MyLearning/cpp_coding/cmake_vscode/src/Soldier.h
+

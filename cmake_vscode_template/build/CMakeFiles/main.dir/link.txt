@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -g  -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/Gun.cpp.o CMakeFiles/main.dir/src/Soldier.cpp.o  -o main 

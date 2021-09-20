@@ -1,0 +1,3 @@
+/home/huangli/MyLearning/cpp_coding/cmake_swap/build/CMakeFiles/rebuild_cache.dir
+/home/huangli/MyLearning/cpp_coding/cmake_swap/build/CMakeFiles/swap_cmake.dir
+/home/huangli/MyLearning/cpp_coding/cmake_swap/build/CMakeFiles/edit_cache.dir
